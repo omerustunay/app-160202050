@@ -13,7 +13,10 @@ import { IonicStorageModule } from '@ionic/storage';
 import { HttpClientModule } from '@angular/common/http';
 import { PortalModule } from './portal/portal.module';
 import { PlayerModule } from "./player/player.module";
-
+import { AngularFireModule } from '@angular/fire';
+import { AngularFireAuthModule } from '@angular/fire/auth'
+import { AngularFirestoreModule } from '@angular/fire/firestore';
+import firebaseConfig from './firebase'
 
 @NgModule({
   declarations: [AppComponent],
@@ -22,6 +25,9 @@ import { PlayerModule } from "./player/player.module";
     BrowserModule,
     IonicModule.forRoot(),
     AppRoutingModule,
+    AngularFireModule.initializeApp(firebaseConfig),
+	  AngularFireAuthModule,
+	  AngularFirestoreModule,
     IonicStorageModule.forRoot(),
     HttpClientModule,
     PortalModule,
