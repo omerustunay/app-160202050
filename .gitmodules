@@ -4,3 +4,6 @@
 [submodule "src/app/HesapEkrani"]
 	path = src/app/HesapEkrani
 	url = https://github.com/2019-BLM441/module-frat57.git
+[submodule "src/app/login/src/app/login"]
+	path = src/app/login/src/app/login
+	url = https://github.com/2019-BLM441/module-170202122.git
