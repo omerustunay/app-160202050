@@ -4,6 +4,7 @@ import { AngularFireAuth } from '@angular/fire/auth'
 import { auth } from 'firebase/app'
 import { Router } from '@angular/router';
 import { Route } from '@angular/compiler/src/core';
+import { ModalController } from '@ionic/angular';
 
 @Component({
   selector: 'app-login',
@@ -14,11 +15,11 @@ import { Route } from '@angular/compiler/src/core';
 
 	username: string = ""
 	password: string = ""
-	constructor(private afAuth: AngularFireAuth , private router:Router){
+	dataReturned:any;
+	constructor(private afAuth: AngularFireAuth , private router:Router,public modalController: ModalController){
 	}
 	ngOnInit() {
 	}
-
 	async login() {
 		const { username, password } = this
 		try {
@@ -26,6 +27,7 @@ import { Route } from '@angular/compiler/src/core';
 			const res = await this.afAuth.auth.signInWithEmailAndPassword(username.trim() + '@codedamn.com', password);
 			if (res) {
 				console.log("Successfully logged in!");
+				alert("Giriş başarılı");
 				this.router.navigateByUrl('/HesapEkrani');
 			  }
 		} 
@@ -34,6 +36,7 @@ import { Route } from '@angular/compiler/src/core';
 			if(err.code === "auth/user-not-found") {
 				console.log("User not found");
 			}
+			alert("Giriş başarısız.");
 		}
 	}
 

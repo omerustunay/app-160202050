@@ -34,6 +34,11 @@ export class AppComponent {
       title: 'Alacak Ekrani',
       url: '/HesapEkrani',
       icon: 'list'
+    },
+    {
+      title: 'Verecek Ekrani',
+      url: '/BorcEkrani',
+      icon: 'list'
     }
   ];
 

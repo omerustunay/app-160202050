@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { SQLService } from '../services/sql/sql.service';
+import { ModalController } from '@ionic/angular';
 
 @Component({
   selector: 'app-home',
@@ -9,7 +10,6 @@ import { SQLService } from '../services/sql/sql.service';
 export class HomePage {
 
   portals = [];
-
   constructor(private sqlService: SQLService) { 
     this.sqlService.getDbState().subscribe(ready => {
       if (ready) {

@@ -31,6 +31,9 @@ const routes: Routes = [
   },
   { path: 'HesapEkrani',
    loadChildren: './HesapEkrani/hesap-ekrani.module#HesapEkraniPageModule' 
+  },
+  { path: 'BorcEkrani',
+   loadChildren: './BorcEkrani/borc-ekrani.module#BorcEkraniPageModule' 
   }
 
 ];

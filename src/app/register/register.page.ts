@@ -5,6 +5,7 @@ import { auth } from 'firebase/app'
 import { AngularFirestore } from '@angular/fire/firestore'
 import { AlertController } from '@ionic/angular';
 import { Router } from '@angular/router';
+import { ModalController } from '@ionic/angular';
 
 @Component({
   selector: 'app-register',
@@ -20,7 +21,8 @@ export class RegisterPage implements OnInit {
 	constructor(
 		public afAuth: AngularFireAuth,
 		public afstore: AngularFirestore,
-		public router: Router
+		public router: Router,
+		public modalController: ModalController
 		) { }
 
 	ngOnInit() {
@@ -29,6 +31,7 @@ export class RegisterPage implements OnInit {
 	async register() {
 		const { username, password, cpassword } = this
 		if(password !== cpassword) {
+			alert("Parolalar eşleşmiyor!!");
 			return console.error("Passwords don't match")
 		}
 
@@ -38,7 +41,7 @@ export class RegisterPage implements OnInit {
 			this.afstore.doc(`users/${res.user.uid}`).set({
 				username
 			})
-
+			alert("Kayıt başarı ile oluşturuldu.");
 		} catch(error) {
 			console.dir(error)
 		}
