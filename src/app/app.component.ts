@@ -29,6 +29,11 @@ export class AppComponent {
       title: 'Player',
       url: '/player',
       icon: 'musical-notes'
+    },
+    {
+      title: 'Alacak Ekrani',
+      url: '/HesapEkrani',
+      icon: 'list'
     }
   ];
 

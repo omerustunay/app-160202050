@@ -15,7 +15,7 @@ import { PortalModule } from './portal/portal.module';
 import { PlayerModule } from "./player/player.module";
 import { AngularFireModule } from '@angular/fire';
 import { AngularFireAuthModule } from '@angular/fire/auth'
-import { AngularFirestoreModule } from '@angular/fire/firestore';
+import { AngularFirestoreModule,FirestoreSettingsToken} from '@angular/fire/firestore';
 import firebaseConfig from './firebase'
 
 @NgModule({
@@ -37,6 +37,7 @@ import firebaseConfig from './firebase'
     StatusBar,
     SplashScreen,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
+    { provide: FirestoreSettingsToken, useValue:{} },
     SQLite
   ],
   bootstrap: [AppComponent]

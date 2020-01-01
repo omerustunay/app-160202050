@@ -26,7 +26,7 @@ import { Route } from '@angular/compiler/src/core';
 			const res = await this.afAuth.auth.signInWithEmailAndPassword(username.trim() + '@codedamn.com', password);
 			if (res) {
 				console.log("Successfully logged in!");
-				this.router.navigateByUrl('/home');
+				this.router.navigateByUrl('/HesapEkrani');
 			  }
 		} 
 		  catch(err) {

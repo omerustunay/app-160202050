@@ -28,6 +28,9 @@ const routes: Routes = [
   },
   { path: 'register', 
   loadChildren: './register/register.module#RegisterPageModule'
+  },
+  { path: 'HesapEkrani',
+   loadChildren: './HesapEkrani/hesap-ekrani.module#HesapEkraniPageModule' 
   }
 
 ];
