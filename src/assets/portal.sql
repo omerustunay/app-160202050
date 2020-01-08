@@ -13,3 +13,18 @@ INSERT INTO note (title, note, icon) VALUES ('American Football', 'This item Ame
 INSERT INTO note (title, note, icon) VALUES ('Boat', 'This item Boat', 'boat');
 INSERT INTO note (title, note, icon) VALUES ('Bluetooth', 'This item Bluetooth', 'bluetooth');
 INSERT INTO note (title, note, icon) VALUES ('Build', 'This item Build', 'build');
+
+CREATE TABLE IF NOT EXISTS alacak (id INTEGER PRIMARY KEY AUTOINCREMENT,alacak_name TEXT,alacak_money INTEGER);
+INSERT INTO alacak (alacak_name, alacak_money) VALUES ('Ömer', '120');
+INSERT INTO alacak (alacak_name, alacak_money) VALUES ('Recep', '60');
+INSERT INTO alacak (alacak_name, alacak_money) VALUES ('Mehmet', '100');
+INSERT INTO alacak (alacak_name, alacak_money) VALUES ('Aran', '200');
+
+CREATE TABLE IF NOT EXISTS verecek (id INTEGER PRIMARY KEY AUTOINCREMENT,verecek_name TEXT,verecek_money INTEGER);
+INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Firat', '120');
+INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Ömer', '150');
+INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Aran', '30');
+
+CREATE TABLE IF NOT EXISTS urun (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT,money INTEGER,content TEXT,supplier TEXT);
+INSERT INTO urun (name, money, content, supplier) VALUES ('Albeni', '3','çikolata','Ülker');
+INSERT INTO urun (name, money, content, supplier) VALUES ('Süt', '5','Süt','Sütaş');
