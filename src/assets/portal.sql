@@ -25,6 +25,6 @@ INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Firat', '120');
 INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Ömer', '150');
 INSERT INTO verecek (verecek_name, verecek_money) VALUES ('Aran', '30');
 
-CREATE TABLE IF NOT EXISTS urun (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT,money INTEGER,content TEXT,supplier TEXT);
-INSERT INTO urun (name, money, content, supplier) VALUES ('Albeni', '3','çikolata','Ülker');
-INSERT INTO urun (name, money, content, supplier) VALUES ('Süt', '5','Süt','Sütaş');
+CREATE TABLE IF NOT EXISTS urun (id INTEGER PRIMARY KEY AUTOINCREMENT,urun_name TEXT,urun_money INTEGER,content TEXT,supplier TEXT);
+INSERT INTO urun (urun_name, urun_money, content, supplier) VALUES ('Albeni', '3','çikolata','Ülker');
+INSERT INTO urun (urun_name, urun_money, content, supplier) VALUES ('Süt', '5','Süt','Sütaş');
