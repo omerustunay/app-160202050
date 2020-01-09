@@ -30,12 +30,17 @@ const routes: Routes = [
   loadChildren: './register/register.module#RegisterPageModule'
   },
   { path: 'HesapEkrani',
-   loadChildren: './HesapEkrani/hesap-ekrani.module#HesapEkraniPageModule' 
+   loadChildren: './Hesap/HesapEkrani/hesap-ekrani.module#HesapEkraniPageModule' 
   },
-  { path: 'BorcEkrani',
-   loadChildren: './BorcEkrani/borc-ekrani.module#BorcEkraniPageModule' 
-  }
-
+  { path: 'Borcekrani',
+   loadChildren: './Hesap/Borcekrani/borc-ekrani.module#BorcEkraniPageModule' 
+  },
+  { path: 'durum-ekrani',
+   loadChildren: './Hesap/durum-ekrani/durum-ekrani.module#DurumEkraniPageModule' 
+  },
+  { path: 'product',
+   loadChildren: './product/product.module#ProductPageModule'
+   }
 ];
 
 @NgModule({

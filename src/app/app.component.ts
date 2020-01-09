@@ -37,7 +37,17 @@ export class AppComponent {
     },
     {
       title: 'Verecek Ekrani',
-      url: '/BorcEkrani',
+      url: '/Borcekrani',
+      icon: 'list'
+    },
+    {
+      title: 'Durum Ekrani',
+      url: '/durum-ekrani',
+      icon: 'list'
+    },
+    {
+      title: 'Ürün Ekrani',
+      url: '/product',
       icon: 'list'
     }
   ];

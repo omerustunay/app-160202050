@@ -5,6 +5,9 @@
 [submodule "src/app/map_calendar_budget"]
 	path = src/app/map_calendar_budget
 	url = https://github.com/2019-BLM441/module-160202050.git
+
 [submodule "src/app/Hesap"]
+
 	path = src/app/Hesap
+
 	url = https://github.com/2019-BLM441/module-160202024.git
