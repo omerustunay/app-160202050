@@ -19,8 +19,8 @@ Projeyi biraz daha geliştirmek için takvim uygulaması geliştirdik. Takvim il
 Toplam 3 modul olarak geliştirmiş olduk.
 
 ## İonic 4 Kullanılan Özellikler
-- Firebase
-- Sqlite
+- Firebase (CRUD)
+- Sqlite 
 - CalendarComponent
 - SQLService
 - Geolocation
@@ -31,3 +31,4 @@ Toplam 3 modul olarak geliştirmiş olduk.
 - ion card
 - local notification
 - search
+- GOOGLE MAPS API KEY Kullanıldı.
