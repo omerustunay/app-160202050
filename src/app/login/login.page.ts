@@ -1,10 +1,14 @@
-  
+
 import { Component, OnInit } from '@angular/core';
 import { AngularFireAuth } from '@angular/fire/auth'
 import { auth } from 'firebase/app'
 import { Router } from '@angular/router';
 import { Route } from '@angular/compiler/src/core';
 import { ModalController } from '@ionic/angular';
+import { AlertController } from '@ionic/angular';
+import { AuthService } from '../services/sql/auth.service';
+
+
 
 @Component({
   selector: 'app-login',
@@ -16,28 +20,31 @@ import { ModalController } from '@ionic/angular';
 	username: string = ""
 	password: string = ""
 	dataReturned:any;
-	constructor(private afAuth: AngularFireAuth , private router:Router,public modalController: ModalController){
-	}
+	constructor(private afAuth: AngularFireAuth , 
+		private router:Router,
+		public alertController:AlertController,
+		public modalController: ModalController,
+		public authService: AuthService){
+			this.loginForm = new FormGroup({
+			  email: new FormControl(),
+			  password: new FormControl()
+			})
+		  }
 	ngOnInit() {
 	}
+
+	async presentAlert(title: string, content: string) {
+		const alert = await this.alertController.create({
+			header: title,
+			message: content,
+			buttons: ['OK']
+		})
+
+		await alert.present()
+	}
+
 	async login() {
-		const { username, password } = this
-		try {
-			// kind of a hack. 
-			const res = await this.afAuth.auth.signInWithEmailAndPassword(username.trim() + '@codedamn.com', password);
-			if (res) {
-				console.log("Successfully logged in!");
-				alert("Giriş başarılı");
-				this.router.navigateByUrl('/HesapEkrani');
-			  }
-		} 
-		  catch(err) {
-			console.dir(err)
-			if(err.code === "auth/user-not-found") {
-				console.log("User not found");
-			}
-			alert("Giriş başarısız.");
-		}
+	  await this.authService.login(this.loginForm.value["email"], this.loginForm.value["password"]);
 	}
 
 	
