@@ -4,7 +4,7 @@
 Proje geliştiricileri
 
 - Ömer Üstünay - 160202050 - [map_calendar_budget @ 67e811c]
-- Mehmet Aran - 160202030 -
+- Mehmet Aran - 160202030 - [product @ 718e49c]
 - Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 41a9202]
 
 
