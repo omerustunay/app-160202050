@@ -5,7 +5,7 @@
 
 - Ömer Üstünay - 160202050 - [map_calendar_budget @ d60da78]
 - Mehmet Aran - 160202030 - [product-module @ 4b4e4db]
-- Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 41a9202]
+- Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 031ca2e]
 
 
 ## Proje Çalışma akışı
