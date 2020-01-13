@@ -59,6 +59,18 @@ Kullanılan Native Özellikler
 
 ###Uygulamadan bazı ekran görüntüleri 
 &nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/2019-BLM441/app-160202050/tree/master/img/1.png)
+![alt text](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;
  ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/4.png)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/6.png)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/7.png)
+ 
