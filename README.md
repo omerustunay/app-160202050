@@ -60,7 +60,7 @@ Kullanılan Native Özellikler
 
 
 ### Login Ekranı
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png=250x)
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png = 250x)
  
  
 ### Register Ekranı
