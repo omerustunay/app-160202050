@@ -55,3 +55,8 @@ Kullanılan Angular Modülleri
 Kullanılan Native Özellikler
 - GOOGLE MAPS API KEY Kullanıldı (GPS işlemleri için).
 - Kamera kullanıldı.
+
+
+###Uygulamadan bazı ekran görüntüleri 
+![GitHub Logo](https://github.com/2019-BLM441/app-160202050/tree/master/img/1.png)
+
