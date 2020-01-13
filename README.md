@@ -57,30 +57,40 @@ Kullanılan Native Özellikler
 - Kamera kullanıldı.
 
 
-### Uygulamadan bazı ekran görüntüleri 
-&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png)
+## Uygulamadan bazı ekran görüntüleri 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/4.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/6.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/7.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/8.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/9.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/10.png)
-
+### Login Ekranı
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png)
  
+ 
+### Register Ekranı
+ ![Register](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png)
+  
+  
+### Hesap Ekranı
+ ![Hesap](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png)
+ 
+ 
+### Verecek Ekranı
+ ![Verecek](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png)
+ 
+ 
+### Durum Ekranı
+ ![Durum](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/6.png)
+ 
+ 
+### Calendar Etkinlik Ekleme Ekranı
+ ![Calendar Etkinlik](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/9.png)
+
+
+### Takvim Ekranı 
+ ![Takvim](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/7.png)
+ 
+ 
+###  Takvim Bilgilendirme Ekranı (Toast kullanımı)
+ ![Toast](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/8.png)
+ 
+ 
+###  Bütçe Ekranı
+ ![Bütçe](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/10.png)
