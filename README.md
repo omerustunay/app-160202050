@@ -1,7 +1,7 @@
 # Bakkal Defterim Uygulaması
 
 
-Proje geliştiricileri
+##Proje geliştiricileri
 
 - Ömer Üstünay - 160202050 - [map_calendar_budget @ d60da78]
 - Mehmet Aran - 160202030 - [product-module @ 4b4e4db]
