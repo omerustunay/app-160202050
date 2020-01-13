@@ -8,7 +8,7 @@
 - Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 41a9202]
 
 
-# # Proje Çalışma akışı
+## Proje Çalışma akışı
 
 Proje login ve register sayfası ile başlamaktadır.
 Login olmak için önce kayıt olmak gerekmektedir. Kayıt işlemlerimiz Firebase ile gerçekleştirilmektedir. 
