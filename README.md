@@ -58,6 +58,7 @@ Kullanılan Native Özellikler
 
 
 ###Uygulamadan bazı ekran görüntüleri 
-![GitHub Logo](https://github.com/2019-BLM441/app-160202050/tree/master/img/1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![alt text](https://github.com/2019-BLM441/app-160202050/tree/master/img/1.png)
 
  ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png)
