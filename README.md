@@ -5,10 +5,9 @@ Proje geliştiricileri
 
 - Ömer Üstünay - 160202050 - [map_calendar_budget @ d60da78]
 - Mehmet Aran - 160202030 - [product-module @ 4b4e4db]
-- Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 41a9202]
+- Hüseyin Fırat Albayrak - 160202024 - [HesapEkrani @ 031ca2e]
 
-
-# # Proje Çalışma akışı
+## Proje Çalışma akışı
 
 Proje login ve register sayfası ile başlamaktadır.
 Login olmak için önce kayıt olmak gerekmektedir. Kayıt işlemlerimiz Firebase ile gerçekleştirilmektedir. 
@@ -61,7 +60,7 @@ Kullanılan Native Özellikler
 
 
 ### Login Ekranı
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png =100x20)
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png=250x)
  
  
 ### Register Ekranı
