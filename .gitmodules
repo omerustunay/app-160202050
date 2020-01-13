@@ -14,3 +14,6 @@
 [submodule "src/app/product"]
 	path = src/app/product
 	url = https://github.com/2019-BLM441/module-160202030.git
+[submodule "src/app/product-module"]
+	path = src/app/product-module
+	url = https://github.com/2019-BLM441/module-160202030.git
