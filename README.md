@@ -79,7 +79,7 @@ Kullanılan Native Özellikler
   ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/8.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/.png)
+ ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/9.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/10.png)
 
