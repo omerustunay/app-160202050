@@ -63,36 +63,35 @@ Kullanılan Native Özellikler
 ### Login Ekranı
 <img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png" width="300" height="450">
 
- ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png)
  
  
 ### Register Ekranı
- ![Register](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/2.png" width="300" height="450">
   
   
 ### Hesap Ekranı
- ![Hesap](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png" width="300" height="450">
  
  
 ### Verecek Ekranı
- ![Verecek](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/4.png" width="300" height="450">
  
  
 ### Durum Ekranı
- ![Durum](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/6.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png" width="300" height="450">
  
  
 ### Calendar Etkinlik Ekleme Ekranı
- ![Calendar Etkinlik](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/9.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/6.png" width="300" height="450">
 
 
 ### Takvim Ekranı 
- ![Takvim](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/7.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/7.png" width="300" height="450">
  
  
 ###  Takvim Bilgilendirme Ekranı (Toast kullanımı)
- ![Toast](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/8.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/8.png" width="300" height="450">
  
  
 ###  Bütçe Ekranı
- ![Bütçe](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/10.png)
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/10.png" width="300" height="450">
