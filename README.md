@@ -26,9 +26,22 @@ Toplam 3 modul olarak geliştirmiş olduk.
 - Geolocation
 - ion-content
 - ion-header
+- ion-card-content
+- ion-card-title
+- ion-card-subtitle
 - alert controller
+- ion-grid
+- ion-col
+- ion-item
+- ion-row
+- ion-input
+- ion-label
+- ion-toolbar
 - toast
+- ion-button
 - ion card
+- ion-icon
+- ion-searchbar
 - local notification
 - search
 - GOOGLE MAPS API KEY Kullanıldı.
