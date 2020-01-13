@@ -61,7 +61,7 @@ Kullanılan Native Özellikler
 
 
 ### Login Ekranı
-<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png" width="300" height="450">
 
  ![login](https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/1.png)
  
