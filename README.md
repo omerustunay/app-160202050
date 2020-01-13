@@ -70,15 +70,15 @@ Kullanılan Native Özellikler
   
   
 ### Hesap Ekranı
-<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png" width="300" height="450">
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/3.png" width="350" height="450">
  
  
 ### Verecek Ekranı
-<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/4.png" width="300" height="450">
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/4.png" width="350" height="450">
  
  
 ### Durum Ekranı
-<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png" width="300" height="450">
+<img src="https://raw.githubusercontent.com/2019-BLM441/app-160202050/master/img/5.png" width="350" height="450">
  
  
 ### Calendar Etkinlik Ekleme Ekranı
